@@ -90,7 +90,7 @@ common = '''
 ##  $ flox build
 ##  $ flox publish
 ## ------------------------------------------------------------------
-[build]
+
 [build.luckyflox]
 description = "The luckiest project ever"
 version = "0.0.1"
