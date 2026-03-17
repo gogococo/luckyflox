@@ -165,7 +165,7 @@ class Confetti:
 
 MESSAGES = [
 "environment lucky",
-"works on my machine ¯\_(ツ)_/¯"
+"works on my machine ¯\_(ツ)_/¯",
 "reproducibility increased",
 "flox magic ready",
 "shell fortune +10",
